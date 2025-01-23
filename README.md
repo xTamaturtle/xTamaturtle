@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## About me
+
+I am new to all of this, i have no experience in IT but I want to get into it and learn. 
+
+Interests - Cybersecurity 
+
+Currently learning - Python
+
+
 <!--
 **xTamaturtle/xTamaturtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
